@@ -20,7 +20,6 @@
         "Lesson4/4.2.1/4.2.1.md",
         "Lesson4/4.2/4.2.md",
         "Lesson4/4.3.1/4.3.1.md",
-        "Lesson4/4.3.1/4.3.11.md",
         "Lesson4/4.3.2/4.3.2.md",
         "Lesson4/4.3/4.3.md",
         "Lesson4/4.4/4.4.md",
@@ -55,5 +54,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
